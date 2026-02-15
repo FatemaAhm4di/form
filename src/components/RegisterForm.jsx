@@ -70,7 +70,7 @@ export default function RegisterForm() {
         <div style={{
           marginBottom: '1.5rem',
           padding: '0.75rem',
-          backgroundColor: '#c5d4ed',
+          backgroundColor: '#abc0e6',
           color: '#2e7d32',
           borderRadius: '8px',
           textAlign: 'center',
