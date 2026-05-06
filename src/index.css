@@ -3,10 +3,10 @@
 :root {
   --bg-primary: #ffffff;
   --text-primary: #212529;
-  --text-secondary: #6c757d;
+  --text-secondary: #3a566e;
   --border-color: #ced4da;
   --error: #d32f2f;
-  --success: #28a745;
+  --success: #20903a;
 }
 
 * {
@@ -17,7 +17,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #7ba2c9;
+  background-color: #5e89b5;
   color: var(--text-primary);
   line-height: 1.6;
   padding: 2rem 0;
